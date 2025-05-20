@@ -1,2 +1,2 @@
 # pong-clone
-Pong clone 
+Pong clone for Educational purposes
